@@ -1,2 +1,3 @@
-# Platzi_introudccion_c_sharp
-Clases correspondientes al curso de introducción de c#
+# Curso de Introducción a C#
+
+Este es el repositorio con los avances de las clases correspondientes al [Curso de Introducción a C#](https://platzi.com/clases/introduccion-csharp/) en Platzi.
